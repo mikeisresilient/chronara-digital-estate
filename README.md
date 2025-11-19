@@ -11,7 +11,7 @@ Built on Ethereum
 
 Chronara Digital Estate Network (C D E N) is an on chain estate and legacy management system that automates inheritance distribution, manages legal documents, and issues NFT like certificates that represent real world or digital assets.
 
-This contract is an upgraded version of the original “Will Contract” and extends its capability with AI assisted identity verification simulation, document storage, certificate ownership tracking, and programmed distribution of inheritance.
+This contract extends its capability with AI assisted identity verification simulation, document storage, certificate ownership tracking, and programmed distribution of inheritance.
 
 The goal is to provide trustless estate execution without legal loopholes or corruption.
 
